@@ -4,9 +4,10 @@ entries:
   - annotations:
       category: Helm Chart
     apiVersion: v2
-    created: "2025-02-07T16:39:19.906863866-05:00"
-    description: A Helm chart for the Control Plane Kubernetes Operator
-    digest: 7b58019def4b208ad1f413287d19ba877aeef955b4edef820d7eb39e4d94690b
+    created: "2025-02-07T23:41:43.954685825-05:00"
+    description: An example of a helm chart for managing cpln resources with the Control
+      Plane k8s operator.
+    digest: 96c8ea5dfc6f6c3994136a9fb766b1aaa93a75be82cec8c8e5f09868f6207d61
     keywords:
     - go
     - Control Plane
@@ -14,11 +15,32 @@ entries:
     maintainers:
     - email: kyle@controlplane.com
       name: Kyle Cupp
-    name: cpln-operator
+    name: argo-example
     sources:
     - https://github.com/Cuppojoe/argo-example
     type: application
     urls:
-    - https://Cuppojoe.github.io/argo-example/published-charts/cpln-operator-0.2.1.tgz
+    - https://cuppojoe.github.io/argo-example/published-charts/argo-example-0.2.2.tgz
+    version: 0.2.2
+  - annotations:
+      category: Helm Chart
+    apiVersion: v2
+    created: "2025-02-07T23:41:43.954509864-05:00"
+    description: An example of a helm chart for managing cpln resources with the Control
+      Plane k8s operator.
+    digest: 985371f8743df741d607916dd2bc25ce5574f3f0bf81437bf158eaaf63ca9023
+    keywords:
+    - go
+    - Control Plane
+    - helm
+    maintainers:
+    - email: kyle@controlplane.com
+      name: Kyle Cupp
+    name: argo-example
+    sources:
+    - https://github.com/Cuppojoe/argo-example
+    type: application
+    urls:
+    - https://cuppojoe.github.io/argo-example/published-charts/argo-example-0.2.1.tgz
     version: 0.2.1
-generated: "2025-02-07T16:39:19.903141287-05:00"
+generated: "2025-02-07T23:41:43.954216256-05:00"
