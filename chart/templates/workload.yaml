@@ -6,7 +6,9 @@ description: workload
 apiVersion: cpln.io/v1
 org: {{ .Values.org }}
 gvc: fresh
-tags: {}
+tags: 
+  name: doron
+  age: 55
 spec:
   type: serverless
   containers:
