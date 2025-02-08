@@ -2,8 +2,6 @@ kind: volumeset
 metadata:
   name: vs-0
   namespace: default
-  annotations:
-    cpln.io/resource-policy: keep
 apiVersion: cpln.io/v1
 description: vs-0 asdf
 org: {{ .Values.org }}

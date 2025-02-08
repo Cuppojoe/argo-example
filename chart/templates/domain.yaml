@@ -4,6 +4,8 @@ apiVersion: cpln.io/v1
 metadata:
   name: cupp.app
   namespace: default
+  annotations:
+    cpln.io/resource-policy: keep
 description: cupp.app
 tags: {}
 spec:
