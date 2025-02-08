@@ -2,7 +2,7 @@ apiVersion: v2
 name: argo-example
 description: An example of a helm chart for managing cpln resources with the Control Plane k8s operator.
 type: application
-version: 0.2.2
+version: 0.2.3
 
 maintainers:
   - name: Kyle Cupp
