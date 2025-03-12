@@ -4,10 +4,10 @@ entries:
   - annotations:
       category: Helm Chart
     apiVersion: v2
-    created: "2025-03-12T19:36:32.361327259-04:00"
+    created: "2025-03-12T19:37:10.237776637-04:00"
     description: An example of a helm chart for managing cpln resources with the Control
       Plane k8s operator.
-    digest: 491ef5f52b3befc57865c68048e91a518cebdb625009a22a29582839717d96ef
+    digest: 9f1250e4f421fffe2cdf6f00075e6d37c8fb79523354604f43e2c0d31fd2e6b8
     keywords:
     - go
     - Control Plane
@@ -25,7 +25,7 @@ entries:
   - annotations:
       category: Helm Chart
     apiVersion: v2
-    created: "2025-03-12T19:36:32.360994242-04:00"
+    created: "2025-03-12T19:37:10.237512917-04:00"
     description: An example of a helm chart for managing cpln resources with the Control
       Plane k8s operator.
     digest: bb55f18056b5b2c661a306343a75a95dc47deff475770fe16496653de43852d5
@@ -46,7 +46,7 @@ entries:
   - annotations:
       category: Helm Chart
     apiVersion: v2
-    created: "2025-03-12T19:36:32.360639324-04:00"
+    created: "2025-03-12T19:37:10.237298875-04:00"
     description: An example of a helm chart for managing cpln resources with the Control
       Plane k8s operator.
     digest: 96c8ea5dfc6f6c3994136a9fb766b1aaa93a75be82cec8c8e5f09868f6207d61
@@ -67,7 +67,7 @@ entries:
   - annotations:
       category: Helm Chart
     apiVersion: v2
-    created: "2025-03-12T19:36:32.359050366-04:00"
+    created: "2025-03-12T19:37:10.237125081-04:00"
     description: An example of a helm chart for managing cpln resources with the Control
       Plane k8s operator.
     digest: 985371f8743df741d607916dd2bc25ce5574f3f0bf81437bf158eaaf63ca9023
@@ -85,4 +85,4 @@ entries:
     urls:
     - https://cuppojoe.github.io/argo-example/published-charts/argo-example-0.2.1.tgz
     version: 0.2.1
-generated: "2025-03-12T19:36:32.35861417-04:00"
+generated: "2025-03-12T19:37:10.236804909-04:00"
