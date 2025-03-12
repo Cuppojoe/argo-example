@@ -7,3 +7,12 @@ publish-chart:
 	git stage ./index.yaml
 	git commit -m "Add or update chart argo-example version $(CHART_VERSION)" || true
 	git push
+
+
+publish-gh-pages:
+	git checkout gh-pages
+	git pull origin gh-pages
+	git merge main || true
+	git commit -m "Merge main into gh-pages" || true
+	git push origin gh-pages
+	git checkout main
