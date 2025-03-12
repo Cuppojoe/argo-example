@@ -4,7 +4,28 @@ entries:
   - annotations:
       category: Helm Chart
     apiVersion: v2
-    created: "2025-02-07T23:46:00.953524245-05:00"
+    created: "2025-03-12T17:22:52.738548363-04:00"
+    description: An example of a helm chart for managing cpln resources with the Control
+      Plane k8s operator.
+    digest: 9d5d71e3d2821d53ac6bb823a74a3270927eee1307d3bacd4f6685b3a5986aec
+    keywords:
+    - go
+    - Control Plane
+    - helm
+    maintainers:
+    - email: kyle@controlplane.com
+      name: Kyle Cupp
+    name: argo-example
+    sources:
+    - https://github.com/Cuppojoe/argo-example
+    type: application
+    urls:
+    - https://cuppojoe.github.io/argo-example/published-charts/argo-example-0.2.4.tgz
+    version: 0.2.4
+  - annotations:
+      category: Helm Chart
+    apiVersion: v2
+    created: "2025-03-12T17:22:52.738390379-04:00"
     description: An example of a helm chart for managing cpln resources with the Control
       Plane k8s operator.
     digest: bb55f18056b5b2c661a306343a75a95dc47deff475770fe16496653de43852d5
@@ -25,7 +46,7 @@ entries:
   - annotations:
       category: Helm Chart
     apiVersion: v2
-    created: "2025-02-07T23:46:00.953363104-05:00"
+    created: "2025-03-12T17:22:52.738235635-04:00"
     description: An example of a helm chart for managing cpln resources with the Control
       Plane k8s operator.
     digest: 96c8ea5dfc6f6c3994136a9fb766b1aaa93a75be82cec8c8e5f09868f6207d61
@@ -46,7 +67,7 @@ entries:
   - annotations:
       category: Helm Chart
     apiVersion: v2
-    created: "2025-02-07T23:46:00.953174114-05:00"
+    created: "2025-03-12T17:22:52.738052143-04:00"
     description: An example of a helm chart for managing cpln resources with the Control
       Plane k8s operator.
     digest: 985371f8743df741d607916dd2bc25ce5574f3f0bf81437bf158eaaf63ca9023
@@ -64,4 +85,4 @@ entries:
     urls:
     - https://cuppojoe.github.io/argo-example/published-charts/argo-example-0.2.1.tgz
     version: 0.2.1
-generated: "2025-02-07T23:46:00.952819053-05:00"
+generated: "2025-03-12T17:22:52.737662879-04:00"
