@@ -1,5 +1,7 @@
 CHART_VERSION ?= 0.2.4
 publish-chart:
+	git checkout main
+	git pull origin main
 	helm package ./chart -d ./published-charts --version $(CHART_VERSION)
 	helm repo index . --url https://cuppojoe.github.io/argo-example
 	git add ./published-charts/argo-example-$(CHART_VERSION).tgz || true
