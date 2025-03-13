@@ -16,3 +16,5 @@ publish-gh-pages:
 	git commit -m "Merge main into gh-pages" || true
 	git push origin gh-pages
 	git checkout main
+
+publish-helm: publish-chart publish-gh-pages
