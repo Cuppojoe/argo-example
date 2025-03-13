@@ -4,7 +4,28 @@ entries:
   - annotations:
       category: Helm Chart
     apiVersion: v2
-    created: "2025-03-13T09:54:05.458494005-04:00"
+    created: "2025-03-13T09:58:09.182970703-04:00"
+    description: An example of a helm chart for managing cpln resources with the Control
+      Plane k8s operator.
+    digest: 1af378e266824106f079b7af29235da2dfdfd373ba0dacf984f5007cdc21fc75
+    keywords:
+    - go
+    - Control Plane
+    - helm
+    maintainers:
+    - email: kyle@controlplane.com
+      name: Kyle Cupp
+    name: argo-example
+    sources:
+    - https://github.com/Cuppojoe/argo-example
+    type: application
+    urls:
+    - https://cuppojoe.github.io/argo-example/published-charts/argo-example-0.2.5.tgz
+    version: 0.2.5
+  - annotations:
+      category: Helm Chart
+    apiVersion: v2
+    created: "2025-03-13T09:58:09.182763668-04:00"
     description: An example of a helm chart for managing cpln resources with the Control
       Plane k8s operator.
     digest: 3eebaa0499c74b9a50f0fc8fb60090e2a5d61628687cbe802c1476c4d94ce3d0
@@ -25,7 +46,7 @@ entries:
   - annotations:
       category: Helm Chart
     apiVersion: v2
-    created: "2025-03-13T09:54:05.458326807-04:00"
+    created: "2025-03-13T09:58:09.182522574-04:00"
     description: An example of a helm chart for managing cpln resources with the Control
       Plane k8s operator.
     digest: bb55f18056b5b2c661a306343a75a95dc47deff475770fe16496653de43852d5
@@ -46,7 +67,7 @@ entries:
   - annotations:
       category: Helm Chart
     apiVersion: v2
-    created: "2025-03-13T09:54:05.458162274-04:00"
+    created: "2025-03-13T09:58:09.182049823-04:00"
     description: An example of a helm chart for managing cpln resources with the Control
       Plane k8s operator.
     digest: 96c8ea5dfc6f6c3994136a9fb766b1aaa93a75be82cec8c8e5f09868f6207d61
@@ -67,7 +88,7 @@ entries:
   - annotations:
       category: Helm Chart
     apiVersion: v2
-    created: "2025-03-13T09:54:05.457966251-04:00"
+    created: "2025-03-13T09:58:09.181725844-04:00"
     description: An example of a helm chart for managing cpln resources with the Control
       Plane k8s operator.
     digest: 985371f8743df741d607916dd2bc25ce5574f3f0bf81437bf158eaaf63ca9023
@@ -85,4 +106,4 @@ entries:
     urls:
     - https://cuppojoe.github.io/argo-example/published-charts/argo-example-0.2.1.tgz
     version: 0.2.1
-generated: "2025-03-13T09:54:05.457637525-04:00"
+generated: "2025-03-13T09:58:09.181444566-04:00"
